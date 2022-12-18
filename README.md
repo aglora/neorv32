@@ -1,6 +1,6 @@
 THIS REPOSIROTY CONTAINS ALL WORK DEVELOPED IN FPGA PRACTICES OF THE SUBJECT "ELECTRONICS SYSTEMS FOR AUTOMATION" OF GIERM DEGREE. 
 
-AUTHORS: @RoboticsLeon and @aglora
+AUTHORS: https://github.com/RoboticsLeon and https://github.com/aglora
 
 We worked on NEORV32 RISC-V Processor.
 
@@ -13,6 +13,8 @@ P3: Using a registers peripheral connected wit wishbone method to the neorv32
 P4: Complete system of a calculator designed in VHDL and C++
 
 All the documentation and results can be read in the .pdf which contains all the information about our practices.
+
+INFORMATION ABOUT NEORV32 RISC-V Processor below:
 
 [![GitHub Pages](https://img.shields.io/website.svg?label=stnolting.github.io%2Fneorv32&longCache=true&style=flat-square&url=http%3A%2F%2Fstnolting.github.io%2Fneorv32%2Findex.html&logo=GitHub)](https://stnolting.github.io/neorv32)
 [![Documentation](https://img.shields.io/github/workflow/status/stnolting/neorv32/Documentation/master?longCache=true&style=flat-square&label=Documentation&logo=Github%20Actions&logoColor=fff)](https://github.com/stnolting/neorv32/actions?query=workflow%3ADocumentation)

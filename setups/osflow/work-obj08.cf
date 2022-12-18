@@ -1,0 +1,7 @@
+v 4
+file . "../../rtl/processor_templates/neorv32_ProcessorTop_MinimalBoot.vhd" "267df572370fd70839e4ae18de875d03d6b2d7f3" "20221217234637.428":
+  entity neorv32_processortop_minimalboot at 35( 3334) + 0 on 397;
+  architecture neorv32_processortop_minimalboot_rtl of neorv32_processortop_minimalboot at 109( 7650) + 0 on 398;
+file . "./board_tops/neorv32_iCEBreaker_BoardTop_MinimalBoot.vhd" "cffe6dc63a822a50f42f604d6605faea5f013560" "20221217234637.496":
+  entity neorv32_icebreaker_boardtop_minimalboot at 40( 3504) + 0 on 399;
+  architecture neorv32_icebreaker_boardtop_minimalboot_rtl of neorv32_icebreaker_boardtop_minimalboot at 87( 4969) + 0 on 400;

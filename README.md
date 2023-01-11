@@ -12,7 +12,7 @@ P3: Using a registers peripheral connected wit wishbone method to the neorv32
 
 P4: Complete system of a calculator designed in VHDL and C++
 
-All the documentation and results can be read in the .pdf which contains all the information about our practices.
+All the documentation and results can be read in the MemoriaPracticas.pdf file which contains all the information about our practices.
 
 INFORMATION ABOUT NEORV32 RISC-V Processor below:
 

@@ -5,6 +5,10 @@ AUTHORS: https://github.com/RoboticsLeon and https://github.com/aglora
 - **We worked on NEORV32 RISC-V Processor.**
 - **Board: iCEBreaker FPGA - Lattice iCE40UP5k**
 
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/aglora/neorv32/blob/main/imgs/1.png" width="700" />
+</div>
+
 P1: Using GPIO and leds
 
 P2: Using the Diligent Keypad
@@ -12,6 +16,11 @@ P2: Using the Diligent Keypad
 P3: Using a registers peripheral connected wit wishbone method to the neorv32
 
 P4: Complete system of a calculator designed in VHDL and C++
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/aglora/neorv32/blob/main/imgs/2.png" width="500" />
+  <img src="https://github.com/aglora/neorv32/blob/main/imgs/3.png" width="500" />
+</div>
 
 All the documentation and results can be read in the MemoriaPracticas.pdf file which contains all the information about our practices.
 

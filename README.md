@@ -2,7 +2,8 @@ THIS REPOSIROTY CONTAINS ALL WORK DEVELOPED IN FPGA PRACTICES OF THE SUBJECT "EL
 
 AUTHORS: https://github.com/RoboticsLeon and https://github.com/aglora
 
-We worked on NEORV32 RISC-V Processor.
+- **We worked on NEORV32 RISC-V Processor.**
+- **Board: iCEBreaker FPGA - Lattice iCE40UP5k**
 
 P1: Using GPIO and leds
 
@@ -14,6 +15,7 @@ P4: Complete system of a calculator designed in VHDL and C++
 
 All the documentation and results can be read in the MemoriaPracticas.pdf file which contains all the information about our practices.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INFORMATION ABOUT NEORV32 RISC-V Processor below:
 
 [![GitHub Pages](https://img.shields.io/website.svg?label=stnolting.github.io%2Fneorv32&longCache=true&style=flat-square&url=http%3A%2F%2Fstnolting.github.io%2Fneorv32%2Findex.html&logo=GitHub)](https://stnolting.github.io/neorv32)
